@@ -39,7 +39,7 @@ Jovem Aprendiz na área de Marketing, construindo experiência profissional enqu
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/enzo-martins-60b664387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/enzo-martins-60b664387)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/EnzoV)
 
 ---
