@@ -1,51 +1,47 @@
-# 👋 Olá! Eu sou o Enzo Martins
+# Olá, eu sou o Enzo Martins. 👋
 
-Sou um jovem interessado em tecnologia e programação, buscando minha *primeira oportunidade profissional*. Gosto de aprender na prática e transformar ideias em projetos.
-
----
-
-## 🚀 Interesses e áreas que estou estudando
-
-- Desenvolvimento de software
-- Projetos simples e práticos
-- Git e GitHub
-- Comunicação e atendimento ao cliente
-- Aprendizado contínuo
-- Python(Básico-lógica e automação)
-- Java (início-POO e estrutura)
----
-
-## 🧩 Projetos no GitHub
-
-- Temperatura — (meu primeiro projeto)
-
-(Confira meus projetos no GitHub!)
+Jovem Aprendiz na área de Marketing, construindo experiência profissional enquanto estudo Tecnologia e Inglês por conta própria — com foco em trabalhar remotamente para empresas internacionais.
 
 ---
 
-## 🎯 Objetivo
+## Sobre mim
 
-Busco uma oportunidade como *Jovem Aprendiz* ou *estágio*, onde eu possa aprender, me desenvolver e contribuir com responsabilidade e foco.
-
----
-
-## 🗣️ Habilidades pessoais
-
-- Boa comunicação
-- Facilidade em ouvir e aprender
-- Organização
-- Iniciativa
-- Interesse genuíno em melhorar
+- 💼 Jovem Aprendiz · Clube Atlético Aramaçã · São Paulo, BR
+- 🐍 Estudando Python pela Alura
+- 🌎 Estudando Inglês pela Papora
+- 🎯 Objetivo: trabalho remoto em Tecnologia para empresas internacionais
+- 📁 Portfólio em construção aqui no GitHub
 
 ---
 
-## 📫 Contato
+## O que estou aprendendo
 
-LinkedIn: https://www.linkedin.com/in/enzo-martins-60b664387
-GitHub: https://github.com/enzo-m-tech
+- Lógica de programação com Python
+- Estruturas de controle: `if`, `while`, `for`, `break`, `continue`
+- Desenvolvimento web com Flask
+- Inglês aplicado à tecnologia
 
 ---
 
-## 📍 Sobre mim
+## Pontos fortes
 
-Gosto de desafios, aprender coisas novas e trabalhar com pessoas. Acredito que tecnologia e comunicação combinadas podem abrir portas para grandes oportunidades.
+`Comunicação` · `Apresentações` · `Escuta ativa` · `Organização` · `Iniciativa própria`
+
+---
+
+## Portfólio
+
+| Repositório | Descrição | Status |
+|-------------|-----------|--------|
+| [solid-base](https://github.com/EnzoV/solid-base) | Base em Python — exercícios e projetos da minha evolução | 🟢 Ativo |
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/EnzoV)
+
+---
+
+*Construindo todos os dias. 🚀*
